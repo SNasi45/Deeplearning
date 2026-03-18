@@ -1,4 +1,4 @@
-## LCI2023053
+## LCI2023053 
 ## DEEP LEARNING ASSIGNMENT
 <img width="500" height="500" alt="Screenshot (2366)" src="https://github.com/user-attachments/assets/b0eed881-149a-4a4b-9481-5be6fe3a0b40" />
 
